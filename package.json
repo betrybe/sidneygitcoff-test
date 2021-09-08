@@ -1,0 +1,23 @@
+{
+  "name": "sidneygitcoff-test",
+  "version": "1.0.0",
+  "description": "Teste Trybe",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betrybe/sidneygitcoff-test.git"
+  },
+  "author": "Sidney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betrybe/sidneygitcoff-test/issues"
+  },
+  "homepage": "https://github.com/betrybe/sidneygitcoff-test#readme"
+}
